@@ -1,3 +1,3 @@
 # Import SVG
 
-![Ball with underwear](ball-with-underwear.svg){:height="200px"}
+ <img src="ball-with-underwear.svg" width="100px" alt="ball with underwear">
