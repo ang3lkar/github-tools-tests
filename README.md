@@ -1,3 +1,3 @@
 # Import SVG
 
-![Ball with underwear](ball-with-underwear.svg){:height="100px" width="100px"}
+![Ball with underwear](ball-with-underwear.svg?v=4&s=200)
