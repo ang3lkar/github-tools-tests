@@ -1,4 +1,4 @@
-# Import SVG
+# Embed SVG in README
 
 Use HTML to control the rendered size:
 ```
