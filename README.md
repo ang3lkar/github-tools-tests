@@ -6,3 +6,6 @@ Use HTML to control the rendered size:
 ```
 
  <img src="ball-with-underwear.svg" width="100px" alt="ball with underwear">
+
+
+ <img src="./gazzette.png" alt="The Workable Gazzette">
